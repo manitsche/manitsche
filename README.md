@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=087EA4&width=435&height=40&lines=Hello%2C+world+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Sou Marco Antonio Nitsche, um profissional da área da tecnologia, que hoje atua na área do suporte. 
+Sou Marco Antonio Nitsche, um profissional da área da tecnologia, que hoje trabalha com suporte ao cliente. 
 
 ## Sobre mim:
 
