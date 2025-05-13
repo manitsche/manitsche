@@ -5,7 +5,7 @@ Sou Marco Antonio Nitsche, um profissional da área da tecnologia, que hoje atua
 ## Sobre mim:
 
 Desde criança, tive apreço pela tecnologia e, ao longo de minha vida, decidi me dedicar à minha vida profissional com foco nesta área. Neste sentido, iniciei meu ensino médio técnico voltado para área da informática e posteriormente, no ano de 2022, minha graduação em Análise e Desenvolvimento de Sistemas. Como entusiasta da área, busco sempre entregar o meu melhor resultado, cumprindo tarefas com entusiasmo e e perseverança. 
-Em tempo, possui 3 anos de experiência em suporte ao cliente e por isso, pretendo me especializar na área. Ainda, possuo bom domínio em desenvolvimento mobile, utilizando-o em horas vagas para execução de projetos de aplcativos android
+Em tempo, possui 3 anos de experiência em suporte ao cliente e por isso, pretendo me especializar na área. Ainda, possuo bom domínio em desenvolvimento mobile, utilizando-o em horas vagas para execução de projetos de aplcativos android.
 
 ## 🛠 Habilidades:
 
